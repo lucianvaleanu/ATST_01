@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ro.ubb.atst.tests.ProductSearchTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.99 s -- in ro.ubb.atst.tests.ProductSearchTest
